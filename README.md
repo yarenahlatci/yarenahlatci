@@ -1,3 +1,5 @@
+<h1 align="center">Hi👋, I'm Yaren</h1>
+
 # 💫 About Me:
 💻 I am a senior student at Biruni University Computer Programming.<br>🏫 I took on the role of 2022-2023 Computer Programming mentor at my school.<br>🙋‍♀️ I am a smiling, energetic, hardworking person who likes to research.<br>💻I want to be a Computer Programmer who is always sought after in my software career and to rise in my profession.
 
