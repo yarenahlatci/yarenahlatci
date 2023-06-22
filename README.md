@@ -1,7 +1,11 @@
 <h1 align="center">Hi👋, I'm Yaren</h1>
 
 # 💫 About Me:
-💻 I am a senior student at Biruni University Computer Programming.<br>🏫 I took on the role of 2022-2023 Computer Programming mentor at my school.<br>🙋‍♀️ I am a smiling, energetic, hardworking person who likes to research.<br>💻I want to be a Computer Programmer who is always sought after in my software career and to rise in my profession.
+💻 I graduated from Biruni University with a major in Computer Programming, achieving a GPA of 3.51 and ranking second in my department. Known for being cheerful, energetic, and hardworking, I have a passion for research and continuously strive to improve myself in the field of software development. During my time at Biruni University, I maintained high academic performance, standing out with my GPA, and had the privilege of serving as a mentor for the Computer Programming program during the 2022-2023 academic year. This allowed me to share my knowledge and provide guidance to fellow students.
+
+💻 My goal is to become a sought-after Computer Programmer and advance in my career. I aim to stay up to date with emerging technologies and developments in order to continuously enhance my skills. I am dedicated to generating innovative solutions, taking on leadership roles in projects, and actively participating in teamwork.
+
+💻 By combining my passion for software development, academic achievements, and skills, I aspire to become a successful pioneer in the field of Computer Programming.
 
 
 ## 🌐 Socials:
