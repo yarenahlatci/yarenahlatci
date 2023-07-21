@@ -3,12 +3,11 @@
 <h1 align="center">Hi👋, I'm Yaren</h1>
 
 # 💫 About Me:
-💻 I graduated from Biruni University with a major in Computer Programming, achieving a GPA of 3.51 and ranking second in my department. Known for being cheerful, energetic, and hardworking, I have a passion for research and continuously strive to improve myself in the field of software development. During my time at Biruni University, I maintained high academic performance, standing out with my GPA, and had the privilege of serving as a mentor for the Computer Programming program during the 2022-2023 academic year. This allowed me to share my knowledge and provide guidance to fellow students.
+💻 I graduated from Biruni University with a major in Computer Programming, achieving a high honor degree with a GPA of 3.51. Known for my friendly, energetic, and diligent nature, I have a passion for research and a strong drive to continuously improve myself in the world of software development. Throughout my time at Biruni University, I maintained high academic performance and stood out in my department with my exceptional GPA. Additionally, during the 2022-2023 academic year, I took on the role of mentoring students in the Computer Programming department, allowing me to share my knowledge and guide fellow students.
 
-💻 My goal is to become a sought-after Computer Programmer and advance in my career. I aim to stay up to date with emerging technologies and developments in order to continuously enhance my skills. I am dedicated to generating innovative solutions, taking on leadership roles in projects, and actively participating in teamwork.
+💻 In my software career, I aim to be a sought-after Computer Programmer and strive to advance in my profession. I am always open to embracing new technologies and advancements, with a commitment to staying up-to-date in this field. My goal is to contribute creative solutions, take on leadership roles in projects, and actively participate in team collaborations.
 
-💻 By combining my passion for software development, academic achievements, and skills, I aspire to become a successful pioneer in the field of Computer Programming.
-
+💻 By combining my passion and goals in software development with my academic achievements and skills, I aspire to be a pioneer in my career as a successful Computer Programmer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarennn/)
