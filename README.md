@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋, I'm Yaren</h1>
 
 # 💫 About Me:
-💻 I graduated from Biruni University with a major in Computer Programming, achieving a high honor degree with a GPA of 3.51. Known for my friendly, energetic, and diligent nature, I have a passion for research and a strong drive to continuously improve myself in the world of software development. Throughout my time at Biruni University, I maintained high academic performance and stood out in my department with my exceptional GPA. Additionally, during the 2022-2023 academic year, I took on the role of mentoring students in the Computer Programming department, allowing me to share my knowledge and guide fellow students.
+💻I graduated from the Computer Programming Department at Biruni University with a GPA of 3.51, earning a high honor degree and ranking second in my department. Known for my friendly, energetic, and diligent nature, I have a passion for research and a strong drive to continuously improve myself in the world of software development. Throughout my time at Biruni University, I maintained high academic performance and stood out in my department with my exceptional GPA. Additionally, during the 2022-2023 academic year, I took on the role of mentoring students in the Computer Programming department, allowing me to share my knowledge and guide fellow students.
 
 💻 In my software career, I aim to be a sought-after Computer Programmer and strive to advance in my profession. I am always open to embracing new technologies and advancements, with a commitment to staying up-to-date in this field. My goal is to contribute creative solutions, take on leadership roles in projects, and actively participate in team collaborations.
 
