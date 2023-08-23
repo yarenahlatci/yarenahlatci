@@ -51,7 +51,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/yarennn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -60,6 +60,7 @@
 ###
 
 ###
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yarenahlatci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -69,22 +70,6 @@
 ###
 
 <br clear="both">
-
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yarenahlatci&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarenahlatci&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenahlatci&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
