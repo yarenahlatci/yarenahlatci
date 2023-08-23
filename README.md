@@ -2,15 +2,15 @@
 
 ###
 
-<h5 align="left">👩‍💻 I graduated from the Computer Programming Department at Biruni University with a GPA of 3.51, earning a high honor degree and ranking second in my department. Known for my friendly, energetic, and diligent nature, I have a passion for research and a strong drive to continuously improve myself in the world of software development. Throughout my time at Biruni University, I maintained high academic performance and stood out in my department with my exceptional GPA. Additionally, during the 2022-2023 academic year, I took on the role of mentoring students in the Computer Programming department, allowing me to share my knowledge and guide fellow students.</h5>
+<h4 align="left">👩‍💻 I graduated from the Computer Programming Department at Biruni University with a GPA of 3.51, earning a high honor degree and ranking second in my department. Known for my friendly, energetic, and diligent nature, I have a passion for research and a strong drive to continuously improve myself in the world of software development. Throughout my time at Biruni University, I maintained high academic performance and stood out in my department with my exceptional GPA. Additionally, during the 2022-2023 academic year, I took on the role of mentoring students in the Computer Programming department, allowing me to share my knowledge and guide fellow students.</h4>
 
 ###
 
-<h5 align="left">👩‍💻 In my software career, I aim to be a sought-after Computer Programmer and strive to advance in my profession. I am always open to embracing new technologies and advancements, with a commitment to staying up-to-date in this field. My goal is to contribute creative solutions, take on leadership roles in projects, and actively participate in team collaborations.</h5>
+<h4 align="left">👩‍💻 In my software career, I aim to be a sought-after Computer Programmer and strive to advance in my profession. I am always open to embracing new technologies and advancements, with a commitment to staying up-to-date in this field. My goal is to contribute creative solutions, take on leadership roles in projects, and actively participate in team collaborations.</h4>
 
 ###
 
-<h5 align="left">👩‍💻 By combining my passion and goals in software development with my academic achievements and skills, I aspire to be a pioneer in my career as a successful Computer Programmer.</h5>
+<h4 align="left">👩‍💻 By combining my passion and goals in software development with my academic achievements and skills, I aspire to be a pioneer in my career as a successful Computer Programmer.</h4>
 
 ###
 
@@ -69,6 +69,23 @@
 
 ###
 
+<br clear="both">
+
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yarenahlatci&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yarenahlatci&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarenahlatci&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
