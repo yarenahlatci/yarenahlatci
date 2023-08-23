@@ -1,3 +1,4 @@
+<img align="right" height="150" src="https://media.istockphoto.com/id/1219473620/vector/young-female-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at.jpg?s=612x612&w=0&k=20&c=zOE7SRWT0gSIVxrioPGTFWpWwXE0_aYsF3ub6q9U3Ho="  />
 <h1 align="center">Hi👋, I'm Yaren</h1>
 
 ###
@@ -57,8 +58,6 @@
 </div>
 
 ###
-
-<img align="left" height="150" src="https://media.istockphoto.com/id/1219473620/vector/young-female-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at.jpg?s=612x612&w=0&k=20&c=zOE7SRWT0gSIVxrioPGTFWpWwXE0_aYsF3ub6q9U3Ho="  />
 
 ###
 
