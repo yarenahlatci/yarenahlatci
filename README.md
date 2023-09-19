@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0A9BF7&background=FFE77900&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Yaren+Ahlatc%C4%B1+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F;Front-End+Developer+%F0%9F%92%BB;Computer+Programmer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
