@@ -1,22 +1,28 @@
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+###
+ <div align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="400" height="250">
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=64A7DF&background=FFFFFF00&center=true&width=1000&height=100&lines=%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Welcome+to+my+GitHub!+%F0%9F%8C%B1;%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Front-end+Developer+%7C+Computer+Programmer++%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%B1+Keep+learning%2C+keep+growing%2C+keep+coding!+%F0%9F%92%BB)](https://git.io/typing-svg)
+###
+<h1>👩🏽‍💻 About Me 🌱</h1>
+🎓 Graduated from the Computer Programming department with a 3.51 GPA, honors degree, and ranked 2nd in my department. Throughout my academic journey, I distinguished myself through high performance and dedication. I was recognized as a friendly, energetic, and hardworking individual.
+
+👩🏽‍🏫 During the 2022-2023 academic year, I had the opportunity to mentor students in the Computer Programming department, sharing my knowledge and experience to guide their development.
+
+🚀 Post-graduation, I transitioned to the Management Information Systems department through the Vertical Transfer Exam (DGS) and am currently a final-year student. I continuously focus on improving my skills in frontend development.
+
+💼 Currently, I work as a Web Design Specialist at a private company, where I am gaining hands-on experience in creating user-centered, aesthetic, and functional web solutions.
+
+🔧 My goal is to further develop my skills and take on a prominent role in the tech industry in the future. 🚀
+
+🌟 I am passionate about continuous learning and innovation, and always open to new opportunities to collaborate and grow in the tech world. 🚀💡
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&color=F729C9&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Yaren+Ahlatc%C4%B1+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Front-End+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Programmer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br>
 
-###
-<h4 align="left">👩🏽‍💻 I graduated with a high honor degree as the second in my class with a GPA of 3.51 from the Computer Programming department of Biruni University. After graduation, I passed the vertical transfer exam and I am currently a senior student in the Management Information Systems department at Anadolu University. During the 2022-2023 academic year, I mentored students and provided guidance to others in the Computer Programming department at Biruni University, sharing knowledge and experience.<br><br>👩🏽‍💻 After graduation, I focused on developing my skills in the Front-End domain, working with technologies such as HTML, CSS, JavaScript, Sass & Scss, Tailwind CSS, and Bootstrap. I am currently still interested in React and continue to enhance my skills in this area. My career goal in software development is to become a sought-after Front-End Developer and strive for advancement in my field. My aim is to contribute to creative solutions, take on leadership roles in projects, and actively participate in team collaborations.<br><br>👩🏽‍💻 By combining my passion for software development and my academic achievements, I aspire to progress in my career as a successful Front-End Developer. With my future goals and strong qualifications, I am excited to play a significant role in the world of software</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yarennn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div><br>
-
+<h1>🔧 Skills & Technologies 💻</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -48,8 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-
+<br>
 
 ###
 
