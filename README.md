@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=64A7DF&background=FFFFFF00&center=true&width=1000&height=100&lines=%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Welcome+to+my+GitHub!+%F0%9F%8C%B1;%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Front-end+Developer+%7C+Computer+Programmer++%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%B1+Keep+learning%2C+keep+growing%2C+keep+coding!+%F0%9F%92%BB)](https://git.io/typing-svg)
 ###
 <h1>👩🏽‍💻 About Me 🌱</h1>
-🎓 Graduated from the Computer Programming department with a 3.51 GPA, honors degree, and ranked 2nd in my department. Throughout my academic journey, I distinguished myself through high performance and dedication. I was recognized as a friendly, energetic, and hardworking individual.
-<br>
+<h5>🎓 Graduated from the Computer Programming department with a 3.51 GPA, honors degree, and ranked 2nd in my department. Throughout my academic journey, I distinguished myself through high performance and dedication. I was recognized as a friendly, energetic, and hardworking individual.</h5>
+
 👩🏽‍🏫 During the 2022-2023 academic year, I had the opportunity to mentor students in the Computer Programming department, sharing my knowledge and experience to guide their development.
 
 🚀 Post-graduation, I transitioned to the Management Information Systems department through the Vertical Transfer Exam (DGS) and am currently a final-year student. I continuously focus on improving my skills in frontend development.
