@@ -8,8 +8,7 @@
 ###
 <h1>👩🏽‍💻 About Me 🌱</h1>
 🎓 Graduated from the Computer Programming department with a 3.51 GPA, honors degree, and ranked 2nd in my department. Throughout my academic journey, I distinguished myself through high performance and dedication. I was recognized as a friendly, energetic, and hardworking individual.
-
-
+<br>
 👩🏽‍🏫 During the 2022-2023 academic year, I had the opportunity to mentor students in the Computer Programming department, sharing my knowledge and experience to guide their development.
 
 🚀 Post-graduation, I transitioned to the Management Information Systems department through the Vertical Transfer Exam (DGS) and am currently a final-year student. I continuously focus on improving my skills in frontend development.
