@@ -19,7 +19,7 @@
 <h4>🔧 My goal is to further develop my skills and take on a prominent role in the tech industry in the future. 🚀</h4>
 
 <h4>🌟 I am passionate about continuous learning and innovation, and always open to new opportunities to collaborate and grow in the tech world. 🚀</h4>
-###
+
 
 <br>
 
